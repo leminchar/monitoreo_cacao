@@ -1,24 +1,6 @@
-# README
+# APLICACION RAILS PARA MONITOREO DE CACAO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta aplicacion esta hecha para monitorear las variables de temperatura y humedad de los procesos de
+secado y fermentacion hecha en rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Realizada por: william aguilar
